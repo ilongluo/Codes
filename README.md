@@ -1,2 +1,2 @@
 # Codes
-codes of dedicated algorithm, using python, c, c++
+codes of dedicated algorithms, using python, c, c++
